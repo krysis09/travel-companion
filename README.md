@@ -1,2 +1,2 @@
 # travel-companion
-AI-powered travel planning assistant.
+Intelligent travel planning assistant.
